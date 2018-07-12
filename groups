@@ -1,3 +1,7 @@
-# UUID                                  	Group Name
-#
+# UUID Group Name
+global:Registered-Users	Registered Users
 44bd5119edebc2e3c9b96902807cf6674060a6b9	Administrators
+global:Anonymous-Users	Anonymous Users
+6c4a9a6e98af1d0bf71f90c4734bc4f0433ceaab	config-ptl
+1da84c692c579f658ed0eba9ee1ee55757a35a16	config-core
+4b67a3373f0484b6aaaab8634b77c2ed38d52166	Non-Interactive Users
