@@ -1,0 +1,5 @@
+[gerrit]
+host=sftests-rdo.com
+port=29418
+project=repo7
+defaultbranch=master
